@@ -1,0 +1,11 @@
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\bin\Release\TestKnobControl.exe.config
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\bin\Release\TestKnobControl.exe
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\bin\Release\TestKnobControl.pdb
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\bin\Release\KnobControl.dll
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\obj\Release\TestKnobControl.csprojAssemblyReference.cache
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\obj\Release\TestKnobControl.Form1.resources
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\obj\Release\TestKnobControl.Properties.Resources.resources
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\obj\Release\TestKnobControl.csproj.GenerateResource.cache
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\obj\Release\TestKnobControl.csproj.CopyComplete
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\obj\Release\TestKnobControl.exe
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\obj\Release\TestKnobControl.pdb

@@ -1,0 +1,63 @@
+C:\Users\A453868\Documents\GitHub\TestrKnobControl\TestrKnobControl\bin\Debug\KnobControl.dll
+C:\Users\A453868\Documents\GitHub\TestrKnobControl\TestrKnobControl\bin\Debug\KnobControl.pdb
+C:\Users\A453868\Documents\GitHub\TestrKnobControl\TestrKnobControl\obj\Debug\TestKnobControl.csprojAssemblyReference.cache
+C:\Users\A453868\Documents\GitHub\TestrKnobControl\TestrKnobControl\obj\Debug\TestKnobControl.csproj.GenerateResource.cache
+C:\Users\A453868\Documents\GitHub\TestrKnobControl\TestrKnobControl\obj\Debug\TestKnobControl.csproj.CopyComplete
+C:\Users\A453868\Documents\GitHub\TestrKnobControl\TestrKnobControl\bin\Debug\TestKnobControl.exe.config
+C:\Users\A453868\Documents\GitHub\TestrKnobControl\TestrKnobControl\bin\Debug\TestKnobControl.exe
+C:\Users\A453868\Documents\GitHub\TestrKnobControl\TestrKnobControl\bin\Debug\TestKnobControl.pdb
+C:\Users\A453868\Documents\GitHub\TestrKnobControl\TestrKnobControl\obj\Debug\TestKnobControl.Properties.Resources.resources
+C:\Users\A453868\Documents\GitHub\TestrKnobControl\TestrKnobControl\obj\Debug\TestKnobControl.exe
+C:\Users\A453868\Documents\GitHub\TestrKnobControl\TestrKnobControl\obj\Debug\TestKnobControl.pdb
+C:\Users\A453868\Documents\GitHub\TestrKnobControl\TestrKnobControl\obj\Debug\TestKnobControl.Form1.resources
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\bin\Debug\TestKnobControl.exe.config
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\bin\Debug\TestKnobControl.exe
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\bin\Debug\TestKnobControl.pdb
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\bin\Debug\KnobControl.dll
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\bin\Debug\KnobControl.pdb
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.csprojAssemblyReference.cache
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.Form1.resources
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.Properties.Resources.resources
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.csproj.GenerateResource.cache
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.csproj.CopyComplete
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.exe
+C:\Users\A453868\Documents\GitHub\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.pdb
+C:\Users\User\Desktop\TestKnobControl\TestKnobControl\bin\Debug\TestKnobControl.exe.config
+C:\Users\User\Desktop\TestKnobControl\TestKnobControl\bin\Debug\TestKnobControl.exe
+C:\Users\User\Desktop\TestKnobControl\TestKnobControl\bin\Debug\TestKnobControl.pdb
+C:\Users\User\Desktop\TestKnobControl\TestKnobControl\bin\Debug\KnobControl.dll
+C:\Users\User\Desktop\TestKnobControl\TestKnobControl\bin\Debug\KnobControl.pdb
+C:\Users\User\Desktop\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.Form1.resources
+C:\Users\User\Desktop\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.Properties.Resources.resources
+C:\Users\User\Desktop\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.csproj.CopyComplete
+C:\Users\User\Desktop\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.exe
+C:\Users\User\Desktop\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.pdb
+C:\Users\User\Desktop\PROGRAMACION\TestKnobControl\TestKnobControl\bin\Debug\TestKnobControl.exe.config
+C:\Users\User\Desktop\PROGRAMACION\TestKnobControl\TestKnobControl\bin\Debug\TestKnobControl.exe
+C:\Users\User\Desktop\PROGRAMACION\TestKnobControl\TestKnobControl\bin\Debug\TestKnobControl.pdb
+C:\Users\User\Desktop\PROGRAMACION\TestKnobControl\TestKnobControl\bin\Debug\KnobControl.dll
+C:\Users\User\Desktop\PROGRAMACION\TestKnobControl\TestKnobControl\bin\Debug\KnobControl.pdb
+C:\Users\User\Desktop\PROGRAMACION\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PROGRAMACION\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.Form1.resources
+C:\Users\User\Desktop\PROGRAMACION\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.Properties.Resources.resources
+C:\Users\User\Desktop\PROGRAMACION\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PROGRAMACION\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROGRAMACION\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.csproj.CopyComplete
+C:\Users\User\Desktop\PROGRAMACION\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.exe
+C:\Users\User\Desktop\PROGRAMACION\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.pdb
+C:\Users\USER\Desktop\Nueva carpeta\New folder (3)\PROGRAMACION\TestKnobControl\TestKnobControl\bin\Debug\TestKnobControl.exe.config
+C:\Users\USER\Desktop\Nueva carpeta\New folder (3)\PROGRAMACION\TestKnobControl\TestKnobControl\bin\Debug\TestKnobControl.exe
+C:\Users\USER\Desktop\Nueva carpeta\New folder (3)\PROGRAMACION\TestKnobControl\TestKnobControl\bin\Debug\TestKnobControl.pdb
+C:\Users\USER\Desktop\Nueva carpeta\New folder (3)\PROGRAMACION\TestKnobControl\TestKnobControl\bin\Debug\KnobControl.dll
+C:\Users\USER\Desktop\Nueva carpeta\New folder (3)\PROGRAMACION\TestKnobControl\TestKnobControl\bin\Debug\KnobControl.pdb
+C:\Users\USER\Desktop\Nueva carpeta\New folder (3)\PROGRAMACION\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Nueva carpeta\New folder (3)\PROGRAMACION\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.Form1.resources
+C:\Users\USER\Desktop\Nueva carpeta\New folder (3)\PROGRAMACION\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.Properties.Resources.resources
+C:\Users\USER\Desktop\Nueva carpeta\New folder (3)\PROGRAMACION\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Nueva carpeta\New folder (3)\PROGRAMACION\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Nueva carpeta\New folder (3)\PROGRAMACION\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.csproj.CopyComplete
+C:\Users\USER\Desktop\Nueva carpeta\New folder (3)\PROGRAMACION\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.exe
+C:\Users\USER\Desktop\Nueva carpeta\New folder (3)\PROGRAMACION\TestKnobControl\TestKnobControl\obj\Debug\TestKnobControl.pdb
